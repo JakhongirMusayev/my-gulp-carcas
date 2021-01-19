@@ -1,0 +1,22 @@
+.header__wrapper {
+	p {
+		text-indent: 35px;
+		text-align: justify;
+		margin: 0 30px 11px;
+		font-family: "Roboto Thin Italic";
+	}
+	p:nth-of-type(2) {
+		font-family: "Roboto Regular";
+	}
+	p:nth-of-type(3) {
+		font-family: "Roboto Medium";
+	}
+	p:nth-of-type(4) {
+		font-family: "Roboto Bold";
+	}
+	img {
+		width: 500px;
+		display: block;
+		margin: 0 auto 50px;
+	}
+}
